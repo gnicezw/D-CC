@@ -84,8 +84,12 @@ unit and potential modifications that you are considering for future iterations
 of this unit. This is an opportunity for you as the unit author to give teachers
 practical guidance.
 
+# Week 1
+## Kere Architecture Pritzker Architecture Prize / Anna Abengowe
+* In this workshop, students learn about the historical context and the transformation role of the new GSA (Graduate School of Architecture) at the University of Johannesburg, gaining an understanding of design as a motor for social change. Students are exposed to the work of Diébédo Francis Kéré, the first African to receive the Pritzker Architecture Prize and discussed the need to embrace what's personal and unique to them in their creative endeavors.
+
 # Week 3
-## “Introduction to Indie Game Design” 
+## Introduction to Indie Game Design / Yanxi Wang
 
 ### 1. Ice Breaker (10:00-10:10)
 ### 2. Differences between game designer and game player (10:10-10:25)
@@ -106,7 +110,46 @@ practical guidance.
 * b. Soft Skills
 * c Q&A (11:20-11:30)
 ### 7 NYU Game Center Game Demo (1-year Development) Play Session (11:30-12:00)
-*a. Choose to play from a selection of NYU Game Center game demos
-* b. Help understand the indie game development potential within the 1-year time onstraint
+* a. Choose to play from a selection of NYU Game Center game demos
+* b. Help understand the indie game development potential within the 1-year time constraint
+
+# Week 4
+## Design for Diversity and Design for all the Senses / Thomas Tajo
+
+### Design for Diversity
+* In this workshop students are introduced the new philosophy of design "Design for Diversity." I will introduce the theory of Bioplasticity which is behind the new philosophy of design "Design for Diversity." 
+* A concept taken from evolutionary biology, epigenetics, and neuroscience. Latest scientific understanding which tells that capacities of living biology to be open and plastic. It is this plasticity of living biology is what gives rise to living beings with diverse forms and functional abilities.
+* The concept of Bioplasticity tells us always to expect diversity. It tellls us that diversity is the
+norm and not the exception. Hence, if we live in a world inhabited by living beings with diverse forms and functional abilities
+then it is vital that we acknowledge and embrace the reality that is diversity.
+
+### How do we do this in design?
+* Living in a world peopled with diverse forms and functional abilities, it is essential that our
+design philosophy reflect the reality that is diversity. Our products and services have to meet the needs of diverse human forms and functional
+abilities. That is how we will acknowledge diversity and design for diversity, delivering justice with our
+designs and achieve social inclusion with our products and services.
+
+### Materials
+Students would be asked to research the concept of diversity and read this text before coming to the class.
+
+* First 20 minutes of the class would be used for introduction and to ponder if they fall into any category of diversity and defining the concept of diversity as
+an ice-breaker.
+* Next 15 minutes would be used to introduce the concept of Bioplasticity and to explain the philosophy of Design for Diversity
+* Following 20 minutes would be used to discuss the idea with the students
+* Then the students would be asked to pick an existing product/service to evaluate with the new
+philosophy of Design for Diversity or they would be asked to imagine a new product/service to apply the new philosophy of Design for Diversity to their designs
+
+### Design for all the Senses
+*  In this workshop students are introduced to the design philosophy "Design for all the Senses." They will be introduced to the idea that human beings have more than 5 traditional senses. They will be taught to acknowledge the diversity of senses and sensory abilities we have. To insert access to multiple senses in product-design from inception.
+*  To do away with the problem of accessibility that is artificially created by failing to include multisensory access to products and services from inception.
+*  They would be introduced to the benefits of multisensory designs [products accessible to multiple senses]. How multisensory designs meet the changing needs of people across life-time and give people the freedom to fluidly shift access products and services from one sensory modality to another. Preventing over sensory stimulation and sensory deprivation Supporting the balanced use and development of diversity of senses we possess.
+
+*  First 20 minutes would be used for introduction and to ask them to think about how many senses they have and employ in daily tasks, as an ice-breaker.
+*  Next 15 minutes would be used to introduce the idea that we have more than 5 senses. To discuss different senses, starting with the five traditional senses we know. How we can move towards designing products and services accessible to multiple senses from inception. To explain the philosophy of multisensory design or Design for all the Senses.
+*  The following 20 minutes would be used to discuss the idea with the students. Then the students would be asked to pick an existing product/service to evaluate with the new philosophy of multisensory design or Design for all the Senses or they would be asked to imagine a new product/service to apply the new philosophy of
+Multisensory Design to their product/service.
+
+### Wednesday Excursion
+Students will be asked to evaluate the space they visit on the Wednesday excursion. Applying the philosophies of Design for Diversity and Design for all the Senses to rethink how these public spaces can be redesigned to meet the criteria of designing for diversity of human forms and abilities that we know to inhabit the planet.
 
 
