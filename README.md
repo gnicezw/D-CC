@@ -89,6 +89,32 @@ practical guidance.
 * In this workshop, students learn about the historical context and the transformation role of the new GSA (Graduate School of Architecture) at the University of Johannesburg, gaining an understanding of design as a motor for social change. Students are exposed to the work of Diébédo Francis Kéré, the first African to receive the Pritzker Architecture Prize and discussed the need to embrace what's personal and unique to them in their creative endeavors.
 
 # Week 3
+
+## Talking Books / James Langton
+Wednesday July 27th
+* 1) Introduction to Audio concepts (30 minutes)
+* a) History: Edison/Radio beginnings/Talking Books for the Blind
+* b) Comparison: "Hitchhiker's Guide To The Galaxy", chapter 6 "The Babel Fish" in book form, NLS Talking Book, Movie, TV and Radio versions
+
+* 2) Making accessible Talking Books from Graphic Novels (30 minutes)
+* Introduction to the concept of image description, related to Talking Books of Graphic Novels
+* Students challenged to work in teams to describe images from popular Manga "Attack On Titan"
+* Teams read their work to the group and discussed the results
+
+* 3) Radio Play (30 minutes)
+* Using material from the Hi Lo Young Adult Fiction book "Lucky Dogs, Lost Hats and Dating Don'ts", 10 students performed for a recorded version of the play "Tornado at Big Burger" (1st half)
+
+ Thursday July 28th
+
+*1)  Radio Play (30 minutes)
+Continuing our work, a different group of 10 students took over the roles and performed for a recorded version of the play "Tornado at Big Burger" (2nd half)
+
+* 2) Podcasting (30 minutes)
+Students were introduced to the concept of podcasting and asked for ideas for a show to appeal to their age group. The group settled on a discussion (a roast!) of celebrities and the title "Celebrity Muck Bong" was chosen along with theme music/track. Two sets of volunteer hosts and guests were chosen. A lively debate was recorded.
+
+* 3) Audiobooks (30 minutes)
+Each member of the group narrated a section of the book "The Hunger Games" using the technology of the audiobook studio, reading in the isolation booth, wearing headphones with a monitor/engineer recording them.
+
 ## Introduction to Indie Game Design / Yanxi Wang
 
 ### 1. Ice Breaker (10:00-10:10)
