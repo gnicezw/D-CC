@@ -93,8 +93,8 @@ practical guidance.
 ## Talking Books / James Langton
 Wednesday July 27th
 * 1) Introduction to Audio concepts (30 minutes)
-* a) History: Edison/Radio beginnings/Talking Books for the Blind
-* b) Comparison: "Hitchhiker's Guide To The Galaxy", chapter 6 "The Babel Fish" in book form, NLS Talking Book, Movie, TV and Radio versions
+    *  a) History: Edison/Radio beginnings/Talking Books for the Blind
+    * b) Comparison: "Hitchhiker's Guide To The Galaxy", chapter 6 "The Babel Fish" in book form, NLS Talking Book, Movie, TV and Radio versions
 
 * 2) Making accessible Talking Books from Graphic Novels (30 minutes)
 * Introduction to the concept of image description, related to Talking Books of Graphic Novels
@@ -106,7 +106,7 @@ Wednesday July 27th
 
  Thursday July 28th
 
-*1)  Radio Play (30 minutes)
+* 1)  Radio Play (30 minutes)
 Continuing our work, a different group of 10 students took over the roles and performed for a recorded version of the play "Tornado at Big Burger" (2nd half)
 
 * 2) Podcasting (30 minutes)
