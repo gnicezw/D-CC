@@ -84,29 +84,29 @@ unit and potential modifications that you are considering for future iterations
 of this unit. This is an opportunity for you as the unit author to give teachers
 practical guidance.
 
-# “Introduction to Indie Game Design” 
+# Week 3
+## “Introduction to Indie Game Design” 
 
-## 1. Ice Breaker (10:00-10:10)
-## 2. Differences between game designer and game player (10:10-10:25)
-### a. Brief introduction of game industry
-### b. Fundamental concept differences between designers and players
-## 3. Palette Design Process (10:25 -10:50)
-### a. Walk-through of the entire development process from ideation to production
-### b. Descriptions of game design working contents
-## 4. Serious Game / Games For Change (10:50-11:00)
-### a. Introduction to serious game genre
-### b. Challenges and personal reflection in the process of serious game development
-### c. Touch on the Day Camp Theme (eg. Smart Future)
+### 1. Ice Breaker (10:00-10:10)
+### 2. Differences between game designer and game player (10:10-10:25)
+* Brief introduction of game industry
+* Fundamental concept differences between designers and players
+### 3. Palette Design Process (10:25 -10:50)
+* a. Walk-through of the entire development process from ideation to production
+* b. Descriptions of game design working contents
+### 4. Serious Game / Games For Change (10:50-11:00)
+* a. Introduction to serious game genre
+* b. Challenges and personal reflection in the process of serious game development
+* c. Touch on the Day Camp Theme (eg. Smart Future)
 
-## ------------ Short Break (11:00 -11:10) --------------
+### ------------ Short Break (11:00 -11:10) --------------
 
-## 5. Some core skill sets required for a game developer (11:10-11:20)
-### a. Hard Skills
-### b. Soft Skills
-## 6. Q&A (11:20-11:30)
-## 7. NYU Game Center Game Demo (1-year Development) Play Session (11:30-12:00)
-### a. Choose to play from a selection of NYU Game Center game demos
-### b. Help understand the indie game development potential within the 1-year time
-constraint
+### 5. Some core skill sets required for a game developer (11:10-11:20)
+* a. Hard Skills
+* b. Soft Skills
+* c Q&A (11:20-11:30)
+### 7 NYU Game Center Game Demo (1-year Development) Play Session (11:30-12:00)
+*a. Choose to play from a selection of NYU Game Center game demos
+* b. Help understand the indie game development potential within the 1-year time onstraint
 
 
