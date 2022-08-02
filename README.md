@@ -127,7 +127,8 @@ Each member of the group narrated a section of the book "The Hunger Games" using
 ### 4. Serious Game / Games For Change (10:50-11:00)
 * a. Introduction to serious game genre
 * b. Challenges and personal reflection in the process of serious game development
-* c. Touch on the Day Camp Theme (eg. Smart Future)
+* c. Touch on the Day Camp Theme (eg. Smart Future)!
+
 
 ### ------------ Short Break (11:00 -11:10) --------------
 
