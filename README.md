@@ -193,7 +193,7 @@ Students will explore the dimensions of socially responsible computing practices
 ## Readings Prior to Session:
 * Please read for reference and skim through the content.
 * Design Justice Network Principle: ([Design Justice Principles](https://designjustice.org/read-the-principles))
-* Words and vocabulary matter: ([how to reduce unconscious bias in software development](https://uxdesign.cc/improving-unconscious-bias-in-software-development-practices-8e54d6bd165e)
+* Words and vocabulary matter: ([how to reduce unconscious bias in software development](https://uxdesign.cc/improving-unconscious-bias-in-software-development-practices-8e54d6bd165e))
 * ACM resource: [Words matter: Alternatives for charged terminology in the computing profession](https://www.acm.org/diversity-inclusion/words-matter)
 
 ## Timeline: 
