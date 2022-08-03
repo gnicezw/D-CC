@@ -180,31 +180,55 @@ Multisensory Design to their product/service.
 Students will be asked to evaluate the space they visit on the Wednesday excursion. Applying the philosophies of Design for Diversity and Design for all the Senses to rethink how these public spaces can be redesigned to meet the criteria of designing for diversity of human forms and abilities that we know to inhabit the planet.
 
 # Week 5
-Workshop Title:
-Developing Socially Responsible Computing Practices and Speculative Ethical Fiction
 
-Name: Dr. Joslenne Peña
+## Workshop Title: Developing Socially Responsible Computing Practices and Speculative Ethical Fiction
 
-Tuesday, August 9th @ 10:20am-11:45am EST
+## Name: Dr. Joslenne Peña
 
-Description: 
+### Tuesday, August 9th @ 10:20am-11:45am EST
+
+## Description: 
 Students will explore the dimensions of socially responsible computing practices when designing and developing software. Students will gain an understanding of how certain design decisions create harm for vulnerable populations through speculative and ethical design. As such, students will unpack important definitions, look at different examples of current practices, engage in group discussions, and work on an artifact.
 
-Readings Prior to Session:
-Please read for reference and skim through the content.
-Design Justice Network Principle: (Design Justice Principles)
-Words and vocabulary matter: (how to reduce unconscious bias in software development)
-ACM resource: Words matter: Alternatives for charged terminology in the computing profession
-Timeline: 
+## Readings Prior to Session:
+* Please read for reference and skim through the content.
+* Design Justice Network Principle: ([Design Justice Principles](https://designjustice.org/read-the-principles))
+* Words and vocabulary matter: ([how to reduce unconscious bias in software development](https://uxdesign.cc/improving-unconscious-bias-in-software-development-practices-8e54d6bd165e)
+* ACM resource: [Words matter: Alternatives for charged terminology in the computing profession](https://www.acm.org/diversity-inclusion/words-matter)
+
+## Timeline: 
 Getting to Know Folks! / My Introduction (5min)
 Introduction to Socially Responsible Concepts - Unpack Definitions and Terms (15min)
 Talking about Black Mirror and Speculative Ethical Design (15min)
-Activity Steps:
-STEP 1: Individual Brainstorming. (5 minutes) Individually, write down ideas related to the topic, especially: (1) current events and news items that seem relevant (can provide links!); (2) things that currently worry you; and (3) where you think this issue might be headed in the future.
 
-STEP 2: Group Discussion. (10 minutes) Discuss the individual ideas that each of you had. Settle on an overarching topic/idea for inspiration for a cautionary tale. If you haven’t already, do a quick news search to find some relevant headlines (or whatever you like!) to include on the inspiration slide. Alternately you can just put text on the slide about the kinds of things that are inspiring you.
+## Activity Steps:
+* STEP 1: Individual Brainstorming. (5 minutes) Individually, write down ideas related to the topic, especially: (1) current events and news items that seem relevant (can provide links!); (2) things that currently worry you; and (3) where you think this issue might be headed in the future.
 
-STEP 3: Come up with a story. (10 minutes) Think about the thing you want to create a cautionary tale about. What fictional person in the future could help illustrate this caution? What is their story?  
+* STEP 2: Group Discussion. (10 minutes) Discuss the individual ideas that each of you had. Settle on an overarching topic/idea for inspiration for a cautionary tale. If you haven’t already, do a quick news search to find some relevant headlines (or whatever you like!) to include on the inspiration slide. Alternately you can just put text on the slide about the kinds of things that are inspiring you.
 
-STEP 4: Create your episode pitch. (10 minutes) Come up with a title, and condense your story into 50-100 word blurb, similar to the examples you saw. It’s fine to give away 
+* STEP 3: Come up with a story. (10 minutes) Think about the thing you want to create a cautionary tale about. What fictional person in the future could help illustrate this caution? What is their story?  
+
+* STEP 4: Create your episode pitch. (10 minutes) Come up with a title, and condense your story into 50-100 word blurb, similar to the examples you saw. It’s fine to give away the ending! Also find an image that illustrates it. I’ve provided some links to where you can find free-to-use photos but you can use whatever you like. Make a slide!
+
+* STEP 5: Report back! Choose one member of your group to share your pitch with the rest of the class in about one minute.
+Debrief / Reflection (5 min)
+
+## Editable Slide Decks for Activity Groups:
+Split into groups of 4!
+
+* [DDC2022-Group1](https://docs.google.com/presentation/d/1CXH8IPnYaF7BbdEvUR2cgpYF4-ZW4nrZP94wTwlV0Bk/edit?usp=sharing)
+* [DDC2022-Group2](https://docs.google.com/presentation/d/1Hmz9j_r3krbpU9Y5Ayr0Y4mdJ-G1Q6SqwMSaG2GS0Ok/edit?usp=sharing)
+* [DDC2022-Group3](https://docs.google.com/presentation/d/16BWBVp4r4bnG9R2D5eMHjxdexY_fHvOLM1ExqHknWcI/edit?usp=sharing)
+* [DDC2022-Group4](https://docs.google.com/presentation/d/1ZTm9bWI_aFuf4W2GJlzthxOJ1evtQyiVA7l40wwkSpo/edit?usp=sharing)
+* [DDC2022-Group5](https://docs.google.com/presentation/d/1KevXPsynKjVQocJi5v3hWbz515GP693sOprTa-nOmvQ/edit?usp=sharing) 
+* [DDC2022-Group6](https://docs.google.com/presentation/d/1ZongxYK78AmlrzyDd0xn4eYhNBjWFI7qXn-fV_DlhgU/edit?usp=sharing)
+
+## Post-Workshop Resources:
+
+[The Black Mirror Writers Room: The Case (and Caution) for Ethical Speculation in CS Education](https://medium.com/cuinfoscience/the-black-mirror-writers-room-the-case-and-caution-for-ethical-speculation-in-cs-education-5c81d05d2c67)
+[Speculative design for the real world](https://uxdesign.cc/speculative-design-for-the-real-world-551130b22827#:~:text=A%20work%20of%20speculative%20design,TV%20series%20(Black%20Mirror).)
+
+
+
+
 
