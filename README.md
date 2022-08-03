@@ -225,8 +225,8 @@ Split into groups of 4!
 
 ## Post-Workshop Resources:
 
-[The Black Mirror Writers Room: The Case (and Caution) for Ethical Speculation in CS Education](https://medium.com/cuinfoscience/the-black-mirror-writers-room-the-case-and-caution-for-ethical-speculation-in-cs-education-5c81d05d2c67)
-[Speculative design for the real world](https://uxdesign.cc/speculative-design-for-the-real-world-551130b22827#:~:text=A%20work%20of%20speculative%20design,TV%20series%20(Black%20Mirror).)
+* [The Black Mirror Writers Room: The Case (and Caution) for Ethical Speculation in CS Education](https://medium.com/cuinfoscience/the-black-mirror-writers-room-the-case-and-caution-for-ethical-speculation-in-cs-education-5c81d05d2c67)
+* [Speculative design for the real world](https://uxdesign.cc/speculative-design-for-the-real-world-551130b22827#:~:text=A%20work%20of%20speculative%20design,TV%20series%20(Black%20Mirror).)
 
 
 
