@@ -179,4 +179,32 @@ Multisensory Design to their product/service.
 ### Wednesday Excursion
 Students will be asked to evaluate the space they visit on the Wednesday excursion. Applying the philosophies of Design for Diversity and Design for all the Senses to rethink how these public spaces can be redesigned to meet the criteria of designing for diversity of human forms and abilities that we know to inhabit the planet.
 
+# Week 5
+Workshop Title:
+Developing Socially Responsible Computing Practices and Speculative Ethical Fiction
+
+Name: Dr. Joslenne Peña
+
+Tuesday, August 9th @ 10:20am-11:45am EST
+
+Description: 
+Students will explore the dimensions of socially responsible computing practices when designing and developing software. Students will gain an understanding of how certain design decisions create harm for vulnerable populations through speculative and ethical design. As such, students will unpack important definitions, look at different examples of current practices, engage in group discussions, and work on an artifact.
+
+Readings Prior to Session:
+Please read for reference and skim through the content.
+Design Justice Network Principle: (Design Justice Principles)
+Words and vocabulary matter: (how to reduce unconscious bias in software development)
+ACM resource: Words matter: Alternatives for charged terminology in the computing profession
+Timeline: 
+Getting to Know Folks! / My Introduction (5min)
+Introduction to Socially Responsible Concepts - Unpack Definitions and Terms (15min)
+Talking about Black Mirror and Speculative Ethical Design (15min)
+Activity Steps:
+STEP 1: Individual Brainstorming. (5 minutes) Individually, write down ideas related to the topic, especially: (1) current events and news items that seem relevant (can provide links!); (2) things that currently worry you; and (3) where you think this issue might be headed in the future.
+
+STEP 2: Group Discussion. (10 minutes) Discuss the individual ideas that each of you had. Settle on an overarching topic/idea for inspiration for a cautionary tale. If you haven’t already, do a quick news search to find some relevant headlines (or whatever you like!) to include on the inspiration slide. Alternately you can just put text on the slide about the kinds of things that are inspiring you.
+
+STEP 3: Come up with a story. (10 minutes) Think about the thing you want to create a cautionary tale about. What fictional person in the future could help illustrate this caution? What is their story?  
+
+STEP 4: Create your episode pitch. (10 minutes) Come up with a title, and condense your story into 50-100 word blurb, similar to the examples you saw. It’s fine to give away 
 
