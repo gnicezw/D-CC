@@ -115,7 +115,7 @@ Students were introduced to the concept of podcasting and asked for ideas for a 
 * 3) Audiobooks (30 minutes)
 Each member of the group narrated a section of the book "The Hunger Games" using the technology of the audiobook studio, reading in the isolation booth, wearing headphones with a monitor/engineer recording them.
 
-## Introduction to Indie Game Design / Yanxi Wang
+## [Introduction to Indie Game Design](https://drive.google.com/file/d/1d0c1j2xRKf17Xr2wwmj59q3BLKtOqh8w/view) / Yanxi Wang
 
 ### 1. Ice Breaker (10:00-10:10)
 ### 2. Differences between game designer and game player (10:10-10:25)
