@@ -190,6 +190,9 @@ Students will be asked to evaluate the space they visit on the Wednesday excursi
 ## Description: 
 Students will explore the dimensions of socially responsible computing practices when designing and developing software. Students will gain an understanding of how certain design decisions create harm for vulnerable populations through speculative and ethical design. As such, students will unpack important definitions, look at different examples of current practices, engage in group discussions, and work on an artifact.
 
+## Slides: (https://docs.google.com/presentation/d/1Vbn7TMBeFuGsEUwSdOyLD-yi03lvVK0-RT60Y1PlGJM/edit?usp=sharing)
+Credit to Casey Fiesler for the Black Mirror Activity
+
 ## Readings Prior to Session:
 * Please read for reference and skim through the content.
 * Design Justice Network Principle: ([Design Justice Principles](https://designjustice.org/read-the-principles))
