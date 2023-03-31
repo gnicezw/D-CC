@@ -1,5 +1,5 @@
 # DDC_2022
-Repository for Digital Day Camp 2022
+Repository for Design+Coding Club 2023
 
 ## Session Title
 Please provide the title of your session
